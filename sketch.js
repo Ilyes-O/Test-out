@@ -5,7 +5,7 @@ const Constraint = Matter.Constraint;
 var canvas, backgroundImage;
 var name = window.prompt("What is your name: "); 
 
-var gameState = 1;
+var gameState = 0;
 var playerCount;
 var allPlayers;
 var engine, world
